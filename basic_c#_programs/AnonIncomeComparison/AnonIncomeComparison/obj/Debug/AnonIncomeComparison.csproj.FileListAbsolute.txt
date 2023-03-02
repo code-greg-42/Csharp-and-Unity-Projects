@@ -1,0 +1,6 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\AnonIncomeComparison.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\AnonIncomeComparison.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\AnonIncomeComparison\AnonIncomeComparison\bin\Debug\AnonIncomeComparison.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\AnonIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\AnonIncomeComparison.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\AnonIncomeComparison\AnonIncomeComparison\obj\Debug\AnonIncomeComparison.pdb

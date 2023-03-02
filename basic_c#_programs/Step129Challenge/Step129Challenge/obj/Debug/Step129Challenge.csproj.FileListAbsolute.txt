@@ -1,0 +1,6 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\Step129Challenge\Step129Challenge\bin\Debug\Step129Challenge.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\Step129Challenge\Step129Challenge\bin\Debug\Step129Challenge.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\Step129Challenge\Step129Challenge\bin\Debug\Step129Challenge.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\Step129Challenge\Step129Challenge\obj\Debug\Step129Challenge.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\Step129Challenge\Step129Challenge\obj\Debug\Step129Challenge.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\Step129Challenge\Step129Challenge\obj\Debug\Step129Challenge.pdb
