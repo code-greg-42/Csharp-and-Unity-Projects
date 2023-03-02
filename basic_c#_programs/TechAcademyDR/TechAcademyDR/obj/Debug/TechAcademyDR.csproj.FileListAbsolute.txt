@@ -1,0 +1,6 @@
+C:\Users\gregs\Desktop\basic_c#_programs\TechAcademyDR\TechAcademyDR\bin\Debug\TechAcademyDR.exe.config
+C:\Users\gregs\Desktop\basic_c#_programs\TechAcademyDR\TechAcademyDR\bin\Debug\TechAcademyDR.exe
+C:\Users\gregs\Desktop\basic_c#_programs\TechAcademyDR\TechAcademyDR\bin\Debug\TechAcademyDR.pdb
+C:\Users\gregs\Desktop\basic_c#_programs\TechAcademyDR\TechAcademyDR\obj\Debug\TechAcademyDR.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\basic_c#_programs\TechAcademyDR\TechAcademyDR\obj\Debug\TechAcademyDR.exe
+C:\Users\gregs\Desktop\basic_c#_programs\TechAcademyDR\TechAcademyDR\obj\Debug\TechAcademyDR.pdb

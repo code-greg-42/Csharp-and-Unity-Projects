@@ -1,0 +1,7 @@
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\Users\gregs\Desktop\basic_c#_programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.pdb
