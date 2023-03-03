@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\bin\Debug\whileLoopPractice.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\bin\Debug\whileLoopPractice.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\bin\Debug\whileLoopPractice.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\obj\Debug\whileLoopPractice.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\obj\Debug\whileLoopPractice.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\obj\Debug\whileLoopPractice.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\whileLoopPractice\whileLoopPractice\obj\Debug\whileLoopPractice.pdb
