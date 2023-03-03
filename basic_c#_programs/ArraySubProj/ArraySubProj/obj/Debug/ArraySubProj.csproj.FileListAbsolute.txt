@@ -1,0 +1,6 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ArraySubProj\ArraySubProj\bin\Debug\ArraySubProj.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ArraySubProj\ArraySubProj\bin\Debug\ArraySubProj.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ArraySubProj\ArraySubProj\bin\Debug\ArraySubProj.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ArraySubProj\ArraySubProj\obj\Debug\ArraySubProj.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ArraySubProj\ArraySubProj\obj\Debug\ArraySubProj.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ArraySubProj\ArraySubProj\obj\Debug\ArraySubProj.pdb
