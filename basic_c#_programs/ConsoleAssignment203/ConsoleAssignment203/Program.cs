@@ -28,16 +28,19 @@ namespace ConsoleAssignment203
                     usedCorrectly = true;
                     Console.WriteLine("Press enter to exit.");
                     _ = Console.ReadLine();
+                    // handle incorrect format aka string/decimal etc being entired
                 } catch (FormatException ex)
                 {
                     Console.WriteLine(ex);
                     Console.WriteLine("Please enter a valid non-zero integer:");
+                    // handle input of zero
                 } catch (DivideByZeroException ex)
                 {
                     Console.WriteLine(ex);
                     Console.WriteLine("Please make sure the integer is non-zero. Enter again:");
                 } finally
                 {
+                    // runs every time. typically would be used for logging.
                     Console.WriteLine("End of 1st attempt. Program continues if input requirements are not met.");
                 }
             }
