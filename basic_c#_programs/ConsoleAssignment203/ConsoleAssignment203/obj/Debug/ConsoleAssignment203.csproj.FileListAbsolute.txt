@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\bin\Debug\ConsoleAssignment203.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\bin\Debug\ConsoleAssignment203.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\bin\Debug\ConsoleAssignment203.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\obj\Debug\ConsoleAssignment203.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\obj\Debug\ConsoleAssignment203.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\obj\Debug\ConsoleAssignment203.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ConsoleAssignment203\ConsoleAssignment203\obj\Debug\ConsoleAssignment203.pdb
