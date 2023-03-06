@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\bin\Debug\ClassesAndObjects1.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\bin\Debug\ClassesAndObjects1.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\bin\Debug\ClassesAndObjects1.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\obj\Debug\TwentyOneApp.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\obj\Debug\TwentyOneApp.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\obj\Debug\ClassesAndObjects1.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\ClassesAndObjects1\ClassesAndObjects1\obj\Debug\ClassesAndObjects1.pdb
