@@ -10,7 +10,9 @@ namespace MethodAssignment4
     {
         static void Main()
         {
-            MathClass.Method1(x: 19, y: 42);
+            MathClass obj1 = new MathClass();
+            obj1.Method1(19, 42);
+            obj1.Method1(x: 19, y: 42);
             _ = Console.ReadLine();
         }
     }
