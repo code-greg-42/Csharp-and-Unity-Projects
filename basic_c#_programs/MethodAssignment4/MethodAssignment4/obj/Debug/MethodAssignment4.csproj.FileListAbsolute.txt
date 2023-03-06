@@ -1,0 +1,6 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethodAssignment4\MethodAssignment4\bin\Debug\MethodAssignment4.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethodAssignment4\MethodAssignment4\bin\Debug\MethodAssignment4.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethodAssignment4\MethodAssignment4\bin\Debug\MethodAssignment4.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.pdb
