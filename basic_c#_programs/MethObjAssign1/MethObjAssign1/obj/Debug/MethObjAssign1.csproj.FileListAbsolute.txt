@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\bin\Debug\MethObjAssign1.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\bin\Debug\MethObjAssign1.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\bin\Debug\MethObjAssign1.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\obj\Debug\MethObjAssign1.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\obj\Debug\MethObjAssign1.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\obj\Debug\MethObjAssign1.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\MethObjAssign1\MethObjAssign1\obj\Debug\MethObjAssign1.pdb
