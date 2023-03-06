@@ -10,6 +10,8 @@ namespace MethodAssignment2
     {
         static void Main()
         {
+            // instantiate mathmethods class
+            MathMethods mathObj = new MathMethods();
             // while loop to repeat until user correctly enters a number
             bool validatedNum = false;
             while (!validatedNum) {
@@ -18,7 +20,7 @@ namespace MethodAssignment2
                 try
                 {
                     int favNum = Convert.ToInt32(userInput);
-                    int newNum1 = MathMethods.Math1(favNum);
+                    int newNum1 = mathObj.Math1(favNum);
                     validatedNum = true;
                     Console.WriteLine("Your new favorite number is {0}. Press enter to continue.", newNum1);
                 }
@@ -38,7 +40,7 @@ namespace MethodAssignment2
                 try
                 {
                     decimal favDec = Convert.ToDecimal(userInput2);
-                    int newDec1 = MathMethods.Math2(favDec);
+                    int newDec1 = mathObj.Math2(favDec);
                     validatedDec = true;
                     Console.WriteLine("Decimals are annoying. Here's a new integer instead: {0}. Press enter to continue.", newDec1);
                 }
@@ -55,7 +57,7 @@ namespace MethodAssignment2
             {
                 Console.WriteLine("Please enter your second favorite number:");
                 string userInput2 = Console.ReadLine();
-                int convertedNum1 = MathMethods.Math3(userInput2);
+                int convertedNum1 = mathObj.Math3(userInput2);
                 if (convertedNum1 != 0)
                 {
                     validatedString = true;

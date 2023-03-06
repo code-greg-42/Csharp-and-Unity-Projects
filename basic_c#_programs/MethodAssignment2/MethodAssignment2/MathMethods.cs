@@ -8,15 +8,15 @@ namespace MethodAssignment2
 {
     class MathMethods
     {
-        public static int Math1(int num1)
+        public int Math1(int num1)
         {
             return num1 + 42;
         }
-        public static int Math2(decimal dec1)
+        public int Math2(decimal dec1)
         {
             return Convert.ToInt32(dec1) + 42;
         }
-        public static int Math3(string string1)
+        public int Math3(string string1)
         {
             try
             {
