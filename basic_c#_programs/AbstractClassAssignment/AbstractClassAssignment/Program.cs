@@ -9,6 +9,10 @@ namespace AbstractClassAssignment
             Employee employee42 = new Employee() { FirstName = "Sample", LastName = "Student" };
             employee42.SayName();
             _ = Console.ReadLine();
+
+            IQuittable employee43 = new Employee() { FirstName = "Peter", LastName = "Gibbons" };
+            employee43.Quit();
+            _ = Console.ReadLine();
         }
     }
 }
