@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractClassAssignment
+namespace step253OperatorsSubmit
 {
-    public class Employee<T>: Person, IQuittable
+    public class Employee: Person, IQuittable
     {
         public int Id { get; set; }
-        public List<T> Things { get; set; }
+        // public List<T> Things { get; set; }
         public override void SayName()
         {
             Console.WriteLine("Our next new employees name is: {0} {1}", FirstName, LastName);
@@ -21,27 +21,27 @@ namespace AbstractClassAssignment
 
         // this is needed for a previous step, but breaks when changing employee to generic
 
-        //public static bool operator== (Employee emp1, Employee emp2)
-        //{
-        //    if (emp1.Id == emp2.Id)
-        //    {
-        //        return true;
-        //    }
-        //    else
-        //    {
-        //        return false;
-        //    }
-        //}
-        //public static bool operator!= (Employee emp1, Employee emp2)
-        //{
-        //    if (emp1.Id != emp2.Id)
-        //    {
-        //        return true;
-        //    }
-        //    else
-        //    {
-        //        return false;
-        //    }
-        //}
+        public static bool operator== (Employee emp1, Employee emp2)
+        {
+            if (emp1.Id == emp2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        public static bool operator!= (Employee emp1, Employee emp2)
+        {
+            if (emp1.Id != emp2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

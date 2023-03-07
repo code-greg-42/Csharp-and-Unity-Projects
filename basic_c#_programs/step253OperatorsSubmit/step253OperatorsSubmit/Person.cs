@@ -1,4 +1,4 @@
-﻿namespace AbstractClassAssignment
+﻿namespace step253OperatorsSubmit
 {
     public abstract class Person
     {
