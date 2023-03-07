@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\bin\Debug\step268StructChallenge.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\bin\Debug\step268StructChallenge.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\bin\Debug\step268StructChallenge.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\obj\Debug\step268StructChallenge.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\obj\Debug\step268StructChallenge.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\obj\Debug\step268StructChallenge.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step268StructChallenge\step268StructChallenge\obj\Debug\step268StructChallenge.pdb
