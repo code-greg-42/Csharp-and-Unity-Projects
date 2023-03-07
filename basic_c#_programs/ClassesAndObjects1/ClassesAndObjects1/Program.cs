@@ -12,8 +12,8 @@ namespace TwentyOneApp
         {
             //List<Game> games = new List<Game>();
             TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Greg", "Phyllis", "Sam", "Cooper", "Amy" };
-            game.ListPlayers();
+            //game.Players = new List<Player>() { "Greg", "Phyllis", "Sam", "Cooper", "Amy" };
+            //game.ListPlayers();
             _ = Console.ReadLine();
             //games.Add(game);
 
