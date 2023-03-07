@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace step273Lambda
 {
@@ -7,21 +8,45 @@ namespace step273Lambda
     {
         static void Main()
         {
+            Employee employee0 = new Employee() { FirstName = "Carmelo", LastName = "Anthony", Id = 0};
+            Employee employee1 = new Employee() { FirstName = "Jalen", LastName = "Hurts", Id = 1};
+            Employee employee2 = new Employee() { FirstName = "Ty", LastName = "Cobb", Id = 2};
+            Employee employee3 = new Employee() { FirstName = "Babe", LastName = "Ruth", Id = 3};
+            Employee employee4 = new Employee() { FirstName = "Lou", LastName = "Gherig", Id = 4};
+            Employee employee5 = new Employee() { FirstName = "Joe", LastName = "Dimaggio", Id = 5};
+            Employee employee6 = new Employee() { FirstName = "Bill", LastName = "Russell", Id = 6};
+            Employee employee7 = new Employee() { FirstName = "Joe", LastName = "Mauer", Id = 7};
+            Employee employee8 = new Employee() { FirstName = "Kobe", LastName = "Bryant", Id = 8};
+            Employee employee9 = new Employee() { FirstName = "Ted", LastName = "Williams", Id = 9};
 
+            List<Employee> employees = new List<Employee>();
+            employees.Add(employee0);
+            employees.Add(employee1);
+            employees.Add(employee2);
+            employees.Add(employee3);
+            employees.Add(employee4);
+            employees.Add(employee5);
+            employees.Add(employee6);
+            employees.Add(employee7);
+            employees.Add(employee8);
+            employees.Add(employee9);
+
+            List<Employee> employeesNamedJoe = new List<Employee>();
+
+            foreach (Employee emp in employees)
+            {
+                if (emp.FirstName == "Joe")
+                {
+                    employeesNamedJoe.Add(emp);
+                }
+            }
+
+            List<Employee> employeesNamedJoe2 = employees.Where(x => x.FirstName == "Joe").ToList();
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+            List<Employee> employeesIdOver5 = employees.Where(x => x.Id > 5).ToList();
+
+            Console.WriteLine(employeesNamedJoe2[0].FirstName);
+            Console.WriteLine(employeesIdOver5[0].Id);
             _ = Console.ReadLine();
             
 

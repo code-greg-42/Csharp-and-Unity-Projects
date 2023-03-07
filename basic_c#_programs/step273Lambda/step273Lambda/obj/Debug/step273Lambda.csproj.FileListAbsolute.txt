@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\obj\Debug\step273Lambda.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\obj\Debug\step273Lambda.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\obj\Debug\AbstractClassAssignment.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\obj\Debug\AbstractClassAssignment.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\bin\Debug\AbstractClassAssignment.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step273Lambda\step273Lambda\bin\Debug\AbstractClassAssignment.pdb

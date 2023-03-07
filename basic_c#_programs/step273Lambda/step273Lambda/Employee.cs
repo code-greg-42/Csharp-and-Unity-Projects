@@ -9,7 +9,6 @@ namespace step273Lambda
     public class Employee: Person, IQuittable
     {
         public int Id { get; set; }
-        //public List<T> Things { get; set; }
         public override void SayName()
         {
             Console.WriteLine("Our next new employees name is: {0} {1}", FirstName, LastName);
@@ -18,8 +17,6 @@ namespace step273Lambda
         {
             Console.WriteLine("Breaking News! Employee {0} {1} has just gotten up and walked out of the building!", FirstName, LastName);
         }
-
-        // this is needed for a previous step, but breaks when changing employee to generic
 
         //public static bool operator== (Employee emp1, Employee emp2)
         //{
