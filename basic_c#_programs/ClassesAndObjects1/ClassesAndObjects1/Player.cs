@@ -23,5 +23,6 @@ namespace TwentyOneApp
             game.Players.Remove(player);
             return game;
         }
+        
     }
 }

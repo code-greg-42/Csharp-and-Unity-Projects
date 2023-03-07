@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\bin\Debug\EnumsAssignment1.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\bin\Debug\EnumsAssignment1.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\bin\Debug\EnumsAssignment1.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\EnumsAssignment1\EnumsAssignment1\obj\Debug\EnumsAssignment1.pdb

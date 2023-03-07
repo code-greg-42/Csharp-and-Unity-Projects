@@ -8,24 +8,24 @@ namespace TwentyOneApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             //List<Game> games = new List<Game>();
-            TwentyOneGame game = new TwentyOneGame();
+            //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<Player>() { "Greg", "Phyllis", "Sam", "Cooper", "Amy" };
             //game.ListPlayers();
-            _ = Console.ReadLine();
+            //_ = Console.ReadLine();
             //games.Add(game);
 
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
+            Deck deck = new Deck();
+            deck.Shuffle(3);
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.face + " of " + card.suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //_ = Console.ReadLine();
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
+            _ = Console.ReadLine();
         }
     }
 }
