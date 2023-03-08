@@ -1,0 +1,7 @@
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\bin\Debug\step307DateTime.exe.config
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\bin\Debug\step307DateTime.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\bin\Debug\step307DateTime.pdb
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\obj\Debug\step307DateTime.csproj.AssemblyReference.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\obj\Debug\step307DateTime.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\obj\Debug\step307DateTime.exe
+C:\Users\gregs\Documents\GitHub\grandersson.github.io\Csharp-and-Unity-Projects\basic_c#_programs\step307DateTime\step307DateTime\obj\Debug\step307DateTime.pdb
